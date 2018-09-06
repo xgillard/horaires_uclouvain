@@ -2,6 +2,7 @@
 Parce que je ne connais pas mon horaire par coeur et que le nouveau portail ne m'aide pas à le trouver facilement..
 
 ```
+horaires
 Vous redirige vers la page ADE avec *votre* horaire.
 
 USAGE:
